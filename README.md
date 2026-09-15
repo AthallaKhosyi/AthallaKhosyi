@@ -16,8 +16,6 @@
 - 🌱 **Currently learning:** **Java** programming language, data structures, and algorithms.
 - 🏸 **Hobby:** Passionate badminton player active in local matches and community tournaments.
 - 💬 **Ask me about:** **HTML5**, **CSS3**, and **Tailwind CSS**.
-- ⚡ **Fun Fact:** Love experimenting with Tailwind color palettes to craft clean and minimalist interfaces!
-
 ---
 
 ### 🌐 Connect with Me
@@ -36,7 +34,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Web Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
