@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/24934347/file/original-e9e50db8bb75bfc3cd56779c716e5914.gif" width="450" alt="Developer GIF" />
+  <img src="https://cdn.dribbble.com/userupload/24934347/file/original-e9e50db8bb75bfc3cd56779c716e5914.gif" width="100%" alt="Developer GIF" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 **Web Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,4 +34,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
