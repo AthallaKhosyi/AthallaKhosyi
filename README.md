@@ -16,6 +16,7 @@
 - 🌱 **Currently learning:** **Java** programming language, data structures, and algorithms.
 - 🏸 **Hobby:** Passionate badminton player active in local matches and community tournaments.
 - 💬 **Ask me about:** **HTML5**, **CSS3**, and **Tailwind CSS**.
+
 ---
 
 ### 🌐 Connect with Me
@@ -34,18 +35,35 @@
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-**Web Frontend:**
+**Web Frontend:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Currently Learning:**
+**Currently Learning:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools & Environment:**
+**Tools & Environment:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### GitHub Stats & Visitor Counter
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athallakhosyi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Athalla's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athallakhosyi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athallakhosyi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athallakhosyi&color=38BDF8&style=for-the-badge&label=Profile+Views" alt="Visitor Count" />
+</p>
