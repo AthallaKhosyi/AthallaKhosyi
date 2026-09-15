@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Athalla Khosyi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Frontend+Web+Developer;Exploring+Java+Programming;Passionate+about+Modern+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Frontend+Web+Developer;Exploring+Java+Programming;%2FUX" alt="Typing SVG" />
 </p>
 
 <p align="center">
